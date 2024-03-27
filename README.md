@@ -21,3 +21,4 @@ e práticas Agile(SCRUM) em um ambiente inovador e dinâmico.
 [![GitHub Streak](https://streak-stats.demolab.com?user=FelipeLambiazzi&theme=dark&hide_border=true&card_width=497)](https://git.io/streak-stats)\
 
 
+[link util para novos readme](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/1709976.md)
